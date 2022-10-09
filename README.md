@@ -7,3 +7,5 @@ Here, are some key projects that I have worked so far on, These are majorly rela
 
 <img width="1349" alt="Screenshot 2022-08-07 at 4 52 13 PM-min" src="https://user-images.githubusercontent.com/99118678/183288028-d0ff6519-dd24-4c64-86a7-cd8995eeefc4.png">
 
+The Location of Nuclear Reactors around the Globe.
+![Unknown](https://user-images.githubusercontent.com/99118678/194757268-8c3d3c44-25b7-4697-ae89-a5a6d58d1a7f.png)
